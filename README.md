@@ -4,9 +4,9 @@
 
 ### Team Members
 
-1. Kashish Desai
-2. Ajit Patil
-3. Pramod Begur Nagaraj
+1. Kashish Desai - 2795337
+2. Ajit Patil - 2737058
+3. Pramod Begur Nagaraj - 2708842
 
 ### Problem Statement
 
