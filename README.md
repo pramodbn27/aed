@@ -42,7 +42,7 @@ Admins will be- System Admin, Patient Admin, Hospital Admin, Justice Admin and P
 <img src="https://user-images.githubusercontent.com/114458145/208053490-43e747b4-5bc1-4846-a99a-38394a622fd7.jpg" width="100%" height="100%">
 
 ### UML Diagram
-<img src="https://user-images.githubusercontent.com/114458145/208053674-b5d19f6b-6421-45cc-b53d-66de37c1cfc8.jpg" width="100%" height="100%">
+<img src="https://user-images.githubusercontent.com/114458145/208053674-b5d19f6b-6421-45cc-b53d-66de37c1cfc8.jpg" width="80%" height="80%">
 
 
 
